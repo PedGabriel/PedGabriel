@@ -36,9 +36,9 @@ Sou estudante de **Informática para Internet** no **Instituto Federal Catarinen
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PedGabriel&show_icons=true&theme=transparent&hide_border=true" alt="Estatísticas do GitHub" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=PedGabriel&show_icons=true&theme=transparent&hide_border=true" alt="Estatísticas do GitHub" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedGabriel&layout=compact&theme=transparent&hide_border=true" alt="Linguagens mais utilizadas" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=PedGabriel&layout=compact&theme=transparent&hide_border=true" alt="Linguagens mais utilizadas" />
 
 </div>
 
