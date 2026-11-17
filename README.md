@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá! Eu sou o Pedro Gabriel 👋
+# Olá!
 
 Sou estudante de **Informática para Internet** no **Instituto Federal Catarinense (IFC)**.
 
