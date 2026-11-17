@@ -26,8 +26,8 @@ Sou estudante de **Informática para Internet** no **Instituto Federal Catarinen
 
 ### 📂 Projetos em destaque
 
-- **[SINUCA](https://github.com/SINUCA-IFC)** — Sistema web de organização de um evento institucional com front e back.
-- **[IFComunidade](https://github.com/IFComunidade)** — Aplicação web feito durante o hackaton de segundo ano do IFC, tem front e back.
+- **[SINUCA](https://github.com/SINUCA-IFC)** — Sistema web de organização e gerenciamento de uma simulação das Nações Unidas, desenvolvido com frontend e backend.
+- **[IFComunidade](https://github.com/IFComunidade)** — Aplicação web full stack desenvolvida durante o hackathon do segundo ano do IFC.
 - **[Projetos pessoais](https://github.com/PedGabriel?tab=repositories)** — Experimentos e aplicações desenvolvidas para aprendizado.
 
 ---
